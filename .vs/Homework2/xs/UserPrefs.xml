@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{FA0E179C-2E3F-D446-3864-0DF22945CA40}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scene2/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scene1/TronShader.shader" Line="18" Column="22" />
+      <File FileName="Assets/Scene1/Bloom.shader" Line="173" Column="36" />
+      <File FileName="Assets/Scene2/PlayerController.cs" Line="71" Column="56" />
+      <File FileName="Assets/Scene2/Heightmap.shader" Line="62" Column="20" />
+      <File FileName="Assets/Scene1/JeffBridges.cs" Line="4" Column="6" />
+      <File FileName="Assets/Scene2/ReflectSkybox.shader" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scene1" expanded="True" />
+              <Node name="Scene2" expanded="True">
+                <Node name="PlayerController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cde78a3b-1b40-4d1f-993d-33929236ac62" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
