@@ -12,7 +12,7 @@ Controls:
 -WASD to move
 -Mouse to look around
 -Press left arrow to move to part A
--Press 1, 2, or 3 to change whether the height map is determined by the images red, green, or blue values, respectively
+-Press Z, X, or C to change whether the height map is determined by the images red, green, or blue values, respectively
 -Press Q to raise the "sea level," and E to lower it
 -Press R to raise the opacity of the "water," and F to lower it
 
